@@ -1,0 +1,310 @@
+GET http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=9BBC13619AFAECCC4CFD656FD044E4EA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=AC8C5DFA4A5233750C28A3534C978CEA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=F68992D73804A4FED8960CDD8BBA01AC
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=F68992D73804A4FED8960CDD8BBA01AC
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=F68992D73804A4FED8960CDD8BBA01AC
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=86BFC5C31B42D0A863DFD963E09F6CC3
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=0186593AFBBF4F159705DA295A41AA59
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=59B68741C63EE75C2CBC465E572B8B60
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=5F01559399F475C19FA6CF51090BCE15
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=ECA4708BAC98B0AC743A6D4AF8DE2799
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 30
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=63385959C4CD0AADC0F28FA14771531D
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic user:1234
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=117358E9DE5B13F8CB706D497258894B
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=117358E9DE5B13F8CB706D497258894B
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=117358E9DE5B13F8CB706D497258894B
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=E048DBD272D973EE5DB1A486B8898B4A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=722DD6A836FFD22D8393C7F7E6E18D9C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=722DD6A836FFD22D8393C7F7E6E18D9C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=722DD6A836FFD22D8393C7F7E6E18D9C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 26
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=90D46A5A8A41D70328D2AD7B43247D9C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic user:
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: JSESSIONID=D9BBC11CD66E10909612584F9781A587
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+POST http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+GET http://localhost:2001/token
+Accept: application/json
+Content-Length: 33
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Authorization: Basic dXNlcjoxMjM0
+
+###
+
+GET http://localhost:2001
+Accept: application/json
+Authorization: Basic user:1234
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:2001
+Accept: application/json
+Authorization: Basic user:1234
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:2001
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
